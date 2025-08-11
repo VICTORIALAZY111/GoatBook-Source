@@ -12,9 +12,45 @@
 - 第一轮投票**反对**和**同意**平票  
 
 故紧急启动**第二轮投票**  
-绿宝石复活版规定骰子大于3通过议案  
+[绿宝石复活版](../name/name.md#emerald_nt)提议骰子大于3通过议案  
 - 经过5次掷骰子，平均数正好是**3**！！！  
 
 *茕山羊：天意难违*  
 故议案**不通过**  
-*mdn:我等下次议会*  
+*mdn:我等下次议会*
+`202589`mdn:我放弃了
+
+*虚构内容*
+
+<script src="/js/dist/autoload.js"></script>
+ <script>
+// 页面加载完成后开始定期执行
+window.addEventListener('load', () => {
+  console.log("Live2D waifu script loaded.");
+  
+  // 初始执行一次
+  updateWaifuStyle();
+
+  // 每隔 1 秒检查一次 modelId 是否发生变化（例如其他脚本修改了 localStorage）
+  setInterval(() => {
+    console.log("running");
+    updateWaifuStyle();
+  }, 1000);
+});
+  </script>
+<div id="giscus"></div>
+<script src="https://giscus.app/client.js"
+        data-repo="nomdn/GoatBook-Source"
+        data-repo-id="R_kgDOPXYjCw"
+        data-category="General"
+        data-category-id="DIC_kwDOPXYjC84Ctwim"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
