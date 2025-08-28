@@ -6,9 +6,8 @@
 ![](https://img.wsmdn.dpdns.org/img/goat.jpg){ width=30% }  
 茕山羊全称**茕茕孑立的山羊**  
 原名**刘峪企**  
-![刘大头](https://img.wsmdn.dpdns.org/img/real_goat.png){ width=10% }  
-住址:吉林省四平市梨树县  
-伟大的群主
+![刘大头](https://img.wsmdn.dpdns.org/img/real_goat.png){ width=10% }    
+伟大的群主  
 国父、开国元勋  
 曾多次担任总统(或主席)  
 一国两治思想的奠基人之一  
@@ -25,8 +24,7 @@ mdn：本站开发者，平平无奇的审稿人
 全名：Emerald_绿宝石  
 原名：李旺源  
 ![](https://img.wsmdn.dpdns.org/img/emer.jpeg){ width=10% } ![](https://img.wsmdn.dpdns.org/img/emer_cat.jpg){ width=10% } ![](https://img.wsmdn.dpdns.org/img/emer_leg.jpg){ width=10% } ![](https://img.wsmdn.dpdns.org/img/emer_half_body.jpeg){ width=10% }   
-吉林省长春市农安县生人  
-生日5.30  
+吉林省长春市农安县生人   
 曾任两次总统    
 开国元勋  
 现因入狱结束任期  
@@ -53,9 +51,11 @@ mdn：本站开发者，平平无奇的审稿人
 曾任两次总统    
 开国元勋  
 出狱了，但账号没有  
-## 卡尔·李卜克内西 {#mickymomse}
+## MickyMomse {#mickymomse}
 最没有存在感的管理员之一  
-谦逊（吗）的调停者
+意义不明、智力低下（？）  
+完善根本群规  
+视奸派  
 ## 温都尔汗坠机王 {#linbiao}
 别名:醉鸡王  
 住址:海南省  
@@ -71,8 +71,20 @@ mdn：本站开发者，平平无奇的审稿人
 试图建立都护府（失败了） 
 ## 红树原木 {#redwood}
 ![红大衰比](https://img.wsmdn.dpdns.org/img/红树原木.jpg){ width=30% }   
-茕羊民国传奇机长、曾被授予*萨利·里德昂航空安全奖*  
+茕羊民国传奇机长、曾被授予*萨利·里德昂航空安全奖*    
 暴露狂、喜欢**双性人**   
+## zbldyyds {#zbldyyds}
+2025/8/15加入茕羊国际，~~爱好赤石~~（群内唯一担任）<br>
+因为发Bad Apple!被赐国姓
+## 波波沙_菜鸟 {#bobo}
+山东省聊城市阳谷县人  
+年龄13岁  
+工书法，善吹洞箫  
+喜欢研究文学与音乐  
+曾两次罢官回家  
+## 茕茕孑立的花火 {#steve1458}
+别名：Steve1458  
+曾任两次总统  
 
 <script src="/js/dist/autoload.js"></script>
  <script>
